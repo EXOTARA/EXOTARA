@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="560px" font-size="16px">
+<style>.key{fill:#953800}.value{fill:#0a3069}.dots{fill:#c2cfde}.add{fill:#1a7f37}.sub{fill:#cf222e}text,tspan{white-space:pre}</style>
+<rect width="985px" height="560px" fill="#f6f8fa" rx="15" stroke="#d0d7de"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">         :::</tspan>
+<tspan x="15" y="50">       -+***+-</tspan>
+<tspan x="15" y="70">     .=******=.</tspan>
+<tspan x="15" y="90">    :=#****-........  ....-=-:....</tspan>
+<tspan x="15" y="110">   -==#*#+:.:.........    :+#*:...</tspan>
+<tspan x="15" y="130">   -==*%=.::.:====-.        :*+...</tspan>
+<tspan x="15" y="150">   -==*+.::.=******+.        :+...</tspan>
+<tspan x="15" y="170">   :=+#:::.=#*=+****+     .++-::..</tspan>
+<tspan x="15" y="190">   -=**::::**= :*****:    -#**=...</tspan>
+<tspan x="15" y="210">  :==#+:::.##+--*#**#.    :*-+*-..</tspan>
+<tspan x="15" y="230">. :==#+::: =%#**###%+     .*.=#+......</tspan>
+<tspan x="15" y="250">. -==**:::. =#%%%%#+. .=-  +**#*:.....</tspan>
+<tspan x="15" y="270">  -==*#:::.. .---:.  :###= .#%%*</tspan>
+<tspan x="15" y="290">   ==+#=:::..        :=++=. .+#=</tspan>
+<tspan x="15" y="310">     +%+:::.... --     -:  .   .</tspan>
+<tspan x="15" y="330">    *#*--:::.....==-::--:. .....</tspan>
+<tspan x="15" y="350">    ##**#=::::..  .:::. .:::...:</tspan>
+<tspan x="15" y="370">         #*-::::....:........:::</tspan>
+<tspan x="15" y="390">           #+-:::::-*+-:::::::-</tspan>
+<tspan x="15" y="410">            %#*=--:=*+++++*--</tspan>
+<tspan x="15" y="430">           %********+++++**</tspan>
+<tspan x="15" y="450">           %#******++**#</tspan>
+<tspan x="15" y="470">          %*##********#*</tspan>
+<tspan x="15" y="490">          #**##**##=.. #**</tspan>
+<tspan x="15" y="510">          ###*##*+:... #*</tspan>
+<tspan x="15" y="530">         %#####=:.....+#</tspan>
+</text>
+<text x="400" y="30" fill="#24292f">
+<tspan x="400" y="30">exotara@github ---------------------------------------------</tspan>
+<tspan x="400" y="50"><tspan class="dots">. </tspan><tspan class="key">OS</tspan>:<tspan class="dots"> ................................. </tspan><tspan class="value">Windows 10/11, Linux</tspan></tspan>
+<tspan x="400" y="70"><tspan class="dots">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">21 years, 5 months, 22 days</tspan></tspan>
+<tspan x="400" y="90"><tspan class="dots">. </tspan><tspan class="key">Host</tspan>:<tspan class="dots"> ........................................ </tspan><tspan class="value">Open Source</tspan></tspan>
+<tspan x="400" y="110"><tspan class="dots">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="dots"> ............................ </tspan><tspan class="value">Self-taught Developer</tspan></tspan>
+<tspan x="400" y="130"><tspan class="dots">. </tspan><tspan class="key">IDE</tspan>:<tspan class="dots"> ....................................... </tspan><tspan class="value">VS Code, Bash</tspan></tspan>
+<tspan x="400" y="150"></tspan>
+<tspan x="400" y="170"><tspan class="dots">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="dots"> ..................... </tspan><tspan class="value">JavaScript, C</tspan></tspan>
+<tspan x="400" y="190"><tspan class="dots">. </tspan><tspan class="key">Languages.Learning</tspan>:<tspan class="dots"> ................... </tspan><tspan class="value">Python, TypeScript</tspan></tspan>
+<tspan x="400" y="210"><tspan class="dots">. </tspan><tspan class="key">Languages.Computer</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">HTML, CSS, JSON, LaTeX</tspan></tspan>
+<tspan x="400" y="230"><tspan class="dots">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="dots"> ......................... </tspan><tspan class="value">Spanish, English</tspan></tspan>
+<tspan x="400" y="250"></tspan>
+<tspan x="400" y="270"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">Linux ricing, Open Source, Modding</tspan></tspan>
+<tspan x="400" y="290"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Security</tspan>:<tspan class="dots"> .......................... </tspan><tspan class="value">Cybersecurity</tspan></tspan>
+<tspan x="400" y="310"><tspan class="dots">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">Building PCs, Exploring components</tspan></tspan>
+<tspan x="400" y="330"></tspan>
+<tspan x="400" y="350">- Contact --------------------------------------------------</tspan>
+<tspan x="400" y="370"><tspan class="dots">. </tspan><tspan class="key">Email.Personal</tspan>:<tspan class="dots"> ............... </tspan><tspan class="value">adlerrodriguez42@gmail.com</tspan></tspan>
+<tspan x="400" y="390"><tspan class="dots">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="dots"> ...................... </tspan><tspan class="value">adler-rodriguez-soberanis</tspan></tspan>
+<tspan x="400" y="410"><tspan class="dots">. </tspan><tspan class="key">Discord</tspan>:<tspan class="dots"> ..................................... </tspan><tspan class="value">exo_is_dead</tspan></tspan>
+<tspan x="400" y="430"><tspan class="dots">. </tspan><tspan class="key">Reddit</tspan>:<tspan class="dots"> ........................................ </tspan><tspan class="value">u/Exxoo01</tspan></tspan>
+<tspan x="400" y="450"></tspan>
+<tspan x="400" y="470">- GitHub Stats ---------------------------------------------</tspan>
+<tspan x="400" y="490"><tspan class="dots">. </tspan><tspan class="key">Repos</tspan>:<tspan class="dots"> ..... </tspan><tspan class="value">6 {Contributed: 2}</tspan> | <tspan class="key">Stars</tspan>:<tspan class="dots"> .............. </tspan><tspan class="value">1</tspan></tspan>
+<tspan x="400" y="510"><tspan class="dots">. </tspan><tspan class="key">Commits</tspan>:<tspan class="dots"> .................. </tspan><tspan class="value">554</tspan> | <tspan class="key">Followers</tspan>:<tspan class="dots"> .......... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="400" y="530"><tspan class="dots">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="dots"> . </tspan><tspan class="value">386,780</tspan> ( <tspan class="add">492,349++</tspan>, <tspan class="sub">105,569--</tspan> )</tspan>
+</text></svg>
