@@ -11,6 +11,12 @@ on:
 permissions:
   contents: write
 
+# A push and the daily/manual run can start together; let them queue instead of
+# both pushing and one failing.
+concurrency:
+  group: profile-card
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
