@@ -4,6 +4,6 @@
   <img alt="Adler Rodriguez's GitHub profile, neofetch style: system info, languages, hobbies, contact and GitHub stats" src="dark_mode.svg">
 </picture>
 
-Hi, I'm Adler 👋 Learning to code, one config file at a time.
+Hi, I'm Adler 👋 If it works, don't touch it. (JK)
 <br>
 Hola, soy Adler. Aprendiendo a programar :b

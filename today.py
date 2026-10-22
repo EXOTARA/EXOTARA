@@ -18,7 +18,7 @@ PROFILE = [
     ("OS", "Windows 10/11, Linux"),
     ("Uptime", "{uptime}"),
     ("Host", "Open Source"),
-    ("Kernel", "Self-taught Developer"),
+    ("Kernel", "Student"),
     ("IDE", "VS Code, Bash"),
     ("blank", None),
     ("Languages.Programming", "JavaScript, C"),
